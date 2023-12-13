@@ -10,10 +10,13 @@ public class UserService {
         return List.of(
                 new User(
                         1L,
-                        "wuodosoo",
-                        "wuodosoo@gmail",
-                        "Tech"
-
+                        "Mr",
+                        "Gordon",
+                        "Test",
+                        "wuodosoo@gmail.com",
+                        1L,
+                        "BadAssPassword",
+                        "23092023"
                 )
         );
     }
